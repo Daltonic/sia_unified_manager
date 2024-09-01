@@ -44,3 +44,12 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Contact
 
 For more information, please contact us at [contact@dappmentors.org](mailto:contact@dappmentors.org).
+
+#### Useful links
+
+- 🏠 [Sia Website](https://sia.tech)
+- 🔥 [Sia Renterd](https://sia.tech/software/renterd)
+- 👨‍💻 [Sia Renterd API](https://api.sia.tech/renterd)
+- 🚀 [Sia Discord Channel](https://sia.tech/discord)
+- 💡 [Our Website](https://dappmentors.org/)
+- 💪 [YouTube Channel](https://youtube.com/@dappmentors)
