@@ -7,7 +7,8 @@ SiaBackable is an official tool designed to enable Renterd users to seamlessly c
 ## Features
 
 * Renterd Database backup
-* Renterd Data migration
+* Renterd Database migration
+* Data recovery
 
 ## Getting Started
 
